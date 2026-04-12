@@ -23,4 +23,9 @@ Cadastral mapping project using ArcGIS Pro including georeferencing, digitizatio
 - Final GIS PDF map
 
 ## Final Output
-![khasra Parcel Map](final_map.png)
+- ![khasra Parcel Map](final_map.png)
+
+
+## Project Report
+- Layout3.pdf
+- Khasra project workflow.pdf
